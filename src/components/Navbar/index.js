@@ -13,7 +13,7 @@ const Navbar = () => {
         <img className="logo-image" src={pit_image} alt="logo" />
         <div className="right-nav-container">
           <h1 className="nav-heading">POLITICAL INTELLIGENCE TEAM</h1>
-          <p>Hello its working</p>
+
           <p className="nav-name">Pavan</p>
         </div>
       </div>
